@@ -1,0 +1,11 @@
+body{
+  padding-left: 10em;
+  color: white;
+  background-repeat: no-repeat;
+  background-size: 125%;
+  background-image: url('https://www.mcdonalds.com/content/dam/usa/nutrition/items/hero/desktop/t-mcdonalds-Hamburger.png');
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
